@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100;
+}
+div{
+    text-align: center;
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 3rem;
+    font-style: oblique;
+    border-radius: 100px;
+    margin: 1rem auto;
+}
+span{
+    text-align: center;
+    font: optional;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    margin-bottom: 1rem auto;
+}
+body{
+    text-align: center;
+    justify-content: center;
+    background-color: aliceblue;
+    word-spacing: 0.5rem;
+    border-width: 100px;
+}
+form{
+    height: 100%;
+    margin: auto;
+    border-radius: 7px;
+    font-family:'Courier New', Courier, monospace;
+    width: 100%;
+    background:whitesmoke;
+    padding: 25px 30px;
+}
